@@ -29,7 +29,7 @@ gui.Parent = game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui")
 
 local frame = Instance.new("Frame")
 frame.Parent = gui
-frame.Size = UDim2.new(0, -175, 0, -110)
+frame.Size = UDim2.new(0, 350, 0, 220)
 frame.Position = UDim2.new(0.5, -175, 0.5, -110)
 frame.BackgroundColor3 = Color3.fromRGB(32,32,32)
 frame.BackgroundTransparency = 0.3
