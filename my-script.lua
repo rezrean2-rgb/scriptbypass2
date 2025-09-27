@@ -1,6 +1,6 @@
 -- CONFIGURAÇÃO:
 local KEY_URL = "https://raw.githubusercontent.com/githubcute/secret-bypass1/main/keys.txt" -- link do seu keys.txt
-local LINK_SITE_KEY = "https://www.roblox.com/share?code=3b0a5698d40498449d84429eefb1978e&type=Server" -- troque pelo seu site de key
+local LINK_SITE_KEY = "https://tinyurl.com/4nhstsxss" -- troque pelo seu site de key
 
 -- Função para buscar keys válidas do GitHub
 local function getKeys()
